@@ -6,8 +6,8 @@ int findComplement(int num) {
 	while (num & mask) mask <<= 1;
 	return ~num & ~mask;
 }
-int main() {
-	int ass = 5;
-	cout << findComplement(ass) << endl;
-	cout << !ass << endl;
-}
+//int main() {
+//	int ass = 20161211;
+//	cout << findComplement(ass) << endl;
+// 
+//}

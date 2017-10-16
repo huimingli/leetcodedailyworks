@@ -16,6 +16,9 @@
     <Filter Include="源文件\20171015">
       <UniqueIdentifier>{f3fb1fa9-dacb-433c-8ea8-8dad7e3a17e5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\20171016">
+      <UniqueIdentifier>{1561cd0b-362e-4f28-87a3-5614458443f5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="judgeCircle.cpp">
@@ -32,6 +35,18 @@
     </ClCompile>
     <ClCompile Include="findComplement.cpp">
       <Filter>源文件\20171015</Filter>
+    </ClCompile>
+    <ClCompile Include="reverseWords.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="findWords.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="calPoints.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="templete.cpp">
+      <Filter>源文件\20171016</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

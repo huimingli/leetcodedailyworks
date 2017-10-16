@@ -143,10 +143,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="arrayPairSum.cpp" />
+    <ClCompile Include="calPoints.cpp" />
     <ClCompile Include="findComplement.cpp" />
+    <ClCompile Include="findWords.cpp" />
     <ClCompile Include="judgeCircle.cpp" />
     <ClCompile Include="hammingDistance.cpp" />
     <ClCompile Include="mergeTrees.cpp" />
+    <ClCompile Include="reverseWords.cpp" />
+    <ClCompile Include="templete.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,3 +1,4 @@
-﻿  findComplement.cpp
+﻿  calPoints.cpp
+e:\thread\leetcodeproject\leetcodeproject\calpoints.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
   LeetcodeProject.vcxproj -> E:\thread\LeetcodeProject\Debug\LeetcodeProject.exe
   LeetcodeProject.vcxproj -> E:\thread\LeetcodeProject\Debug\LeetcodeProject.pdb (Full PDB)
