@@ -143,14 +143,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="arrayPairSum.cpp" />
+    <ClCompile Include="averageOfLevels.cpp" />
     <ClCompile Include="calPoints.cpp" />
+    <ClCompile Include="distrubuteCandy.cpp" />
     <ClCompile Include="findComplement.cpp" />
+    <ClCompile Include="findLUSlength.cpp" />
     <ClCompile Include="findWords.cpp" />
+    <ClCompile Include="hasAlternatingBits.cpp" />
+    <ClCompile Include="islandPerimeter.cpp" />
     <ClCompile Include="judgeCircle.cpp" />
     <ClCompile Include="hammingDistance.cpp" />
+    <ClCompile Include="matrixReshape.cpp" />
     <ClCompile Include="mergeTrees.cpp" />
+    <ClCompile Include="nextGreaterElement.cpp" />
+    <ClCompile Include="nim.cpp" />
     <ClCompile Include="reverseWords.cpp" />
-    <ClCompile Include="templete.cpp" />
+    <ClCompile Include="getImportance.cpp" />
+    <ClCompile Include="singlenum.cpp" />
+    <ClCompile Include="trimBST.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

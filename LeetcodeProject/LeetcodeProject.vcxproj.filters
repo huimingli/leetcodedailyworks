@@ -45,7 +45,37 @@
     <ClCompile Include="calPoints.cpp">
       <Filter>源文件\20171016</Filter>
     </ClCompile>
-    <ClCompile Include="templete.cpp">
+    <ClCompile Include="distrubuteCandy.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="matrixReshape.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="trimBST.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="islandPerimeter.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="nextGreaterElement.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="averageOfLevels.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="getImportance.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="findLUSlength.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="nim.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="singlenum.cpp">
+      <Filter>源文件\20171016</Filter>
+    </ClCompile>
+    <ClCompile Include="hasAlternatingBits.cpp">
       <Filter>源文件\20171016</Filter>
     </ClCompile>
   </ItemGroup>

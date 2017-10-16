@@ -11,6 +11,4 @@ int distributeCandies(vector<int>& candies) {
 	}
 	return min(candies.size()/2,kinds.size());
 }
-int main() {
-	vector<int> s;
-}
+ 
