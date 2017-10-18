@@ -153,6 +153,7 @@
     <ClCompile Include="islandPerimeter.cpp" />
     <ClCompile Include="judgeCircle.cpp" />
     <ClCompile Include="hammingDistance.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="matrixReshape.cpp" />
     <ClCompile Include="mergeTrees.cpp" />
     <ClCompile Include="nextGreaterElement.cpp" />
@@ -161,6 +162,21 @@
     <ClCompile Include="getImportance.cpp" />
     <ClCompile Include="singlenum.cpp" />
     <ClCompile Include="trimBST.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="addDigits.h" />
+    <ClInclude Include="convertBST.h" />
+    <ClInclude Include="detectCapitalUse.h" />
+    <ClInclude Include="findDisappearedNumbers.h" />
+    <ClInclude Include="findDuplicates.h" />
+    <ClInclude Include="findTarget.h" />
+    <ClInclude Include="findTheDifference.h" />
+    <ClInclude Include="getSum.h" />
+    <ClInclude Include="invertTree.h" />
+    <ClInclude Include="maxAreaOfIsland.h" />
+    <ClInclude Include="maxDepth.h" />
+    <ClInclude Include="moveZeroes.h" />
+    <ClInclude Include="tree2str.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

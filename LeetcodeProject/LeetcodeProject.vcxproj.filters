@@ -19,6 +19,9 @@
     <Filter Include="源文件\20171016">
       <UniqueIdentifier>{1561cd0b-362e-4f28-87a3-5614458443f5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\201771017">
+      <UniqueIdentifier>{a1db7213-5d37-4428-9021-788a12da4ad7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="judgeCircle.cpp">
@@ -78,5 +81,49 @@
     <ClCompile Include="hasAlternatingBits.cpp">
       <Filter>源文件\20171016</Filter>
     </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="maxAreaOfIsland.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="maxDepth.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="detectCapitalUse.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="invertTree.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="addDigits.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="findDisappearedNumbers.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="findDuplicates.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="getSum.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="findTheDifference.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="findTarget.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="moveZeroes.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="tree2str.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="convertBST.h">
+      <Filter>源文件\201771017</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
