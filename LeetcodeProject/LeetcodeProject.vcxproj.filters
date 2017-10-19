@@ -22,6 +22,9 @@
     <Filter Include="源文件\201771017">
       <UniqueIdentifier>{a1db7213-5d37-4428-9021-788a12da4ad7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\20171018">
+      <UniqueIdentifier>{724bf42b-124b-4c14-94f7-a7b1a972a48d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="judgeCircle.cpp">
@@ -84,6 +87,9 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="findShortestSubArray.cpp">
+      <Filter>源文件\20171018</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="maxAreaOfIsland.h">
@@ -124,6 +130,36 @@
     </ClInclude>
     <ClInclude Include="convertBST.h">
       <Filter>源文件\201771017</Filter>
+    </ClInclude>
+    <ClInclude Include="constructRectangle.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="maxCount.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="titleToNumber.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="minMoves.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="intersection.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="maxProfit.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="canConstruct.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="getMinimumDifference.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="sumOfLeftLeaves.h">
+      <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="twoSum.h">
+      <Filter>源文件\20171018</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

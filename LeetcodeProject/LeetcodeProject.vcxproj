@@ -148,6 +148,7 @@
     <ClCompile Include="distrubuteCandy.cpp" />
     <ClCompile Include="findComplement.cpp" />
     <ClCompile Include="findLUSlength.cpp" />
+    <ClCompile Include="findShortestSubArray.cpp" />
     <ClCompile Include="findWords.cpp" />
     <ClCompile Include="hasAlternatingBits.cpp" />
     <ClCompile Include="islandPerimeter.cpp" />
@@ -165,18 +166,28 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="addDigits.h" />
+    <ClInclude Include="canConstruct.h" />
+    <ClInclude Include="constructRectangle.h" />
     <ClInclude Include="convertBST.h" />
     <ClInclude Include="detectCapitalUse.h" />
     <ClInclude Include="findDisappearedNumbers.h" />
     <ClInclude Include="findDuplicates.h" />
     <ClInclude Include="findTarget.h" />
     <ClInclude Include="findTheDifference.h" />
+    <ClInclude Include="getMinimumDifference.h" />
     <ClInclude Include="getSum.h" />
+    <ClInclude Include="intersection.h" />
     <ClInclude Include="invertTree.h" />
     <ClInclude Include="maxAreaOfIsland.h" />
+    <ClInclude Include="maxCount.h" />
     <ClInclude Include="maxDepth.h" />
+    <ClInclude Include="maxProfit.h" />
+    <ClInclude Include="minMoves.h" />
     <ClInclude Include="moveZeroes.h" />
+    <ClInclude Include="sumOfLeftLeaves.h" />
+    <ClInclude Include="titleToNumber.h" />
     <ClInclude Include="tree2str.h" />
+    <ClInclude Include="twoSum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
