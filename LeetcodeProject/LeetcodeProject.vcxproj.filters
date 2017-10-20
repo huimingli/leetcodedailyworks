@@ -25,6 +25,12 @@
     <Filter Include="源文件\20171018">
       <UniqueIdentifier>{724bf42b-124b-4c14-94f7-a7b1a972a48d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\20171019">
+      <UniqueIdentifier>{86a65536-e63e-44c7-9b90-42fa278c651c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\20171020">
+      <UniqueIdentifier>{bf32ceef-ca6e-415c-8754-d42d464e28de}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="judgeCircle.cpp">
@@ -160,6 +166,81 @@
     </ClInclude>
     <ClInclude Include="twoSum.h">
       <Filter>源文件\20171018</Filter>
+    </ClInclude>
+    <ClInclude Include="findContentChildren.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="findTilt.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="majorityElement.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="firstUniqChar.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="deleteNode.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="isSameTree.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="isAnagram.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="findRelativeRanks.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="findRestaurant.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="containsDuplicate.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="reverseList.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="longestPalindrome.h">
+      <Filter>源文件\20171019</Filter>
+    </ClInclude>
+    <ClInclude Include="maximumProduct.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="intersect.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="diameterOfBinaryTree.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="missingNumber.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="convertToBase7.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="checkRecord.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="reverseStr.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="findLengthOfLCIS.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="sortedArrayToBST.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="findSecondMinimumValue.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="addStrings.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="toHex.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="findLHS.h">
+      <Filter>源文件\20171020</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
