@@ -5,21 +5,27 @@
 #include<unordered_map>
 #include<unordered_set>
 #include<queue>
- using namespace std;
-  
- bool isHappy(int n) {
-	 while (n>6) {
-		 int next = 0;
-		 while (n) { 
-			 next += (n % 10)*(n % 10); 
-			 n /= 10; }
-		 n = next;
-	 }
-	 return n == 1;
- }
-  
-int main() {
-	 
-	cout << isHappy(100);
-} 
- 
+#include<math.h>
+using namespace std;
+class NumArray {
+public:
+	vector<int> v;
+	NumArray(vector<int> nums) {
+		v = vector<int>(nums.begin(), nums.end());
+	}
+
+	int sumRange(int i, int j) {
+		int sum = 0;
+		for (int k = i; k <= j; k++) {
+			sum += v[i];
+		}
+		return sum;
+	}
+};
+int main() {  
+
+	NumArray na = NumArray({  -2,0,3,-5,2,-1  });
+	cout << na.sumRange(0, 2);
+}
+
+

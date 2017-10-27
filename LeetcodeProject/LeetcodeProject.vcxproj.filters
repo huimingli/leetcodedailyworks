@@ -31,6 +31,21 @@
     <Filter Include="源文件\20171020">
       <UniqueIdentifier>{bf32ceef-ca6e-415c-8754-d42d464e28de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\20171021">
+      <UniqueIdentifier>{2a145a62-9904-49c6-b09f-272a52f53fb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\20171022">
+      <UniqueIdentifier>{bf938d96-6ef3-403b-8f1f-baacc2659893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\20171024">
+      <UniqueIdentifier>{6b1b3001-af22-4540-83aa-149f4b4dc216}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\20171025">
+      <UniqueIdentifier>{7a38045a-d92f-48bd-84b5-504a6f36c113}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\20171026">
+      <UniqueIdentifier>{0824a0a6-d276-475e-ac12-6c8e37a7143b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="judgeCircle.cpp">
@@ -241,6 +256,99 @@
     </ClInclude>
     <ClInclude Include="findLHS.h">
       <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="isHappy.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="levelOrderBottom.h">
+      <Filter>源文件\20171020</Filter>
+    </ClInclude>
+    <ClInclude Include="isSubtree.h">
+      <Filter>源文件\20171021</Filter>
+    </ClInclude>
+    <ClInclude Include="isPowerOfThree.h">
+      <Filter>源文件\20171021</Filter>
+    </ClInclude>
+    <ClInclude Include="isPowerOfTwo.h">
+      <Filter>源文件\20171021</Filter>
+    </ClInclude>
+    <ClInclude Include="climbStairs.h">
+      <Filter>源文件\20171021</Filter>
+    </ClInclude>
+    <ClInclude Include="findErrorNums.h">
+      <Filter>源文件\20171021</Filter>
+    </ClInclude>
+    <ClInclude Include="deleteDuplicates.h">
+      <Filter>源文件\20171022</Filter>
+    </ClInclude>
+    <ClInclude Include="hammingWeight.h">
+      <Filter>源文件\20171022</Filter>
+    </ClInclude>
+    <ClInclude Include="isUgly.h">
+      <Filter>源文件\20171022</Filter>
+    </ClInclude>
+    <ClInclude Include="binaryTreePaths.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="lowestCommonAncestor.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="rob.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="mergeTwoLists.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="isSymmetric.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="isPowerOfFour.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="isPerfectSquare.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="isBalanced.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="findMaxAverage.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="removeDuplicates.h">
+      <Filter>源文件\20171024</Filter>
+    </ClInclude>
+    <ClInclude Include="MyStack.h">
+      <Filter>源文件\20171025</Filter>
+    </ClInclude>
+    <ClInclude Include="minDepth.h">
+      <Filter>源文件\20171025</Filter>
+    </ClInclude>
+    <ClInclude Include="wordPattern.h">
+      <Filter>源文件\20171026</Filter>
+    </ClInclude>
+    <ClInclude Include="addBinary.h">
+      <Filter>源文件\20171026</Filter>
+    </ClInclude>
+    <ClInclude Include="removeElements.h">
+      <Filter>源文件\20171026</Filter>
+    </ClInclude>
+    <ClInclude Include="longestUnivaluePath.h">
+      <Filter>源文件\20171026</Filter>
+    </ClInclude>
+    <ClInclude Include="containsNearbyDuplicate.h">
+      <Filter>源文件\20171026</Filter>
+    </ClInclude>
+    <ClInclude Include="judgeSquareSum.h">
+      <Filter>源文件\20171026</Filter>
+    </ClInclude>
+    <ClInclude Include="merge.h">
+      <Filter>源文件\20171026</Filter>
+    </ClInclude>
+    <ClInclude Include="validPalindrome.h">
+      <Filter>源文件\20171026</Filter>
+    </ClInclude>
+    <ClInclude Include="lengthOfLastWord.h">
+      <Filter>源文件\20171026</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
